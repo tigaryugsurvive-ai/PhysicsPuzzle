@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\gitignore" />
     <Filter Include="Config">
@@ -40,6 +41,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\PhysicsPuzzle\PhysicsPuzzle.h">
       <Filter>Source\PhysicsPuzzle</Filter>
+    </ClInclude>
+    <Filter Include="Source\PhysicsPuzzle\Private">
+      <UniqueIdentifier>{C61768FE-44EA-316A-A2EB-B3DCF5465A30}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PhysicsPuzzle\Private\RotatingPlatform.cpp">
+      <Filter>Source\PhysicsPuzzle\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\PhysicsPuzzle\Public">
+      <UniqueIdentifier>{96E9C1A6-F516-3E85-BE67-7AE98B664F87}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PhysicsPuzzle\Public\RotatingPlatform.h">
+      <Filter>Source\PhysicsPuzzle\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ueproject\\physicspuzzle\\source\\physicspuzzle\\private\\rotatingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ueproject\\physicspuzzle\\intermediate\\build\\win64\\x64\\physicspuzzleeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ueproject\\physicspuzzle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\physicspuzzle\\definitions.physicspuzzle.h",
+            "c:\\ueproject\\physicspuzzle\\source\\physicspuzzle\\public\\rotatingplatform.h",
+            "c:\\ueproject\\physicspuzzle\\intermediate\\build\\win64\\unrealeditor\\inc\\physicspuzzle\\uht\\rotatingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
