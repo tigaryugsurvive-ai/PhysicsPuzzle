@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhysicsPuzzleModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+911b344915f930141e72392da3737032d7df69c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97fbc3382cf140ab90241354fd3c322a77f5f052")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhysicsPuzzleModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhysicsPuzzleModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
